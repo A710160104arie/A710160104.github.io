@@ -2,7 +2,7 @@
 index.html
 <html>
 <head>
-<title>Perkuliahan ATA 2DB01</title>
+<title>Perkuliahan bahasa jepang </title>
 </head>
 <body bgcolor=”aqua”>
 <p align=”center”><b><font size=”8″>Jadwal Perkuliahan ATA 2DB01</font></b></p>
