@@ -5,7 +5,7 @@ index.html
 <title>Perkuliahan bahasa jepang </title>
 </head>
 <body bgcolor=”aqua”>
-<p align=”center”><b><font size=”8″>Jadwal Perkuliahan ATA 2DB01</font></b></p>
+<p align=”center”><b><font size=”8″>Jadwal Perkuliahan bahasa jepang </font></b></p>
 <table align=”center” width=”50%” border=”10″ style=”background:white”>
 <tr>
 <td>Kelas</td>
