@@ -2,10 +2,10 @@
 index.html
 <html>
 <head>
-<title>Perkuliahan bahasa jepang </title>
+<title>Perkuliahan kelas terpadu </title>
 </head>
 <body bgcolor=”aqua”>
-<p align=”center”><b><font size=”8″>Jadwal Perkuliahan bahasa jepang </font></b></p>
+<p align=”center”><b><font size=”8″>Jadwal Perkuliahan kelas terpadu </font></b></p>
 <table align=”center” width=”50%” border=”10″ style=”background:white”>
 <tr>
 <td>Kelas</td>
